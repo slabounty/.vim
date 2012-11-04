@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/slabounty/Genetic/General'
+let g:netrw_dirhist_2='/home/slabounty/RamazeTutorial/SimpleHerokuSequel'
+let g:netrw_dirhist_3='/home/slabounty/RamazeTutorial/ioot/dbMigration'
+let g:netrw_dirhist_4='/home/slabounty/NanocTutorial/josh_1/about/index.rtfd'
+let g:netrw_dirhist_5='/home/slabounty/RailsTest/socialgreeting/app/assets/stylesheets'
+let g:netrw_dirhist_6='/home/slabounty/RailsTest/socialgreeting/app/views/layouts'
+let g:netrw_dirhist_7='/home/slabounty/RailsTest/ProgrammersNotebook'
